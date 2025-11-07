@@ -1,0 +1,7 @@
+{
+  "name": "RILAN - Sistema de Controle de Estoque",
+  "description": "Um sistema web completo para controle de estoque de uma revendedora de materiais, permitindo entradas e saídas, cadastro/edição de itens, e gerenciamento de perfis de acesso.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
